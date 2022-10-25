@@ -1,13 +1,1 @@
-{
-    "name": "avadheshshukla/avadhesh_hospitall",
-    "description": "this is testing",
-    "type": "project",
-    "license": "i",
-    "autoload": {
-        "psr-4": {
-            "Avadheshshukla\\AvadheshHospitall\\": "src/"
-        }
-    },
-    "minimum-stability": "dev",
-    "require": {}
-}
+{}
